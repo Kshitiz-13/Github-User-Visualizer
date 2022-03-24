@@ -1,6 +1,6 @@
 # Github-User-Visualizer
 
-### https://github-profile-visulaizer-v1-react.netlify.app/
+### https://github-profile-visualizer-v1-react.netlify.app/
 
 
 ## A  Website made in React to visualize the profile of a Github user.
